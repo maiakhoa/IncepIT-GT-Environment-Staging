@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.89
 - name: golftec-caddymaster-2020
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.45
+  version: 0.0.46
